@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
-<div align="center" style="background-color: #E6E6FA; padding: 20px;">
-  <h1 style="color: black;">DamHyun's GitHub</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&section=header&text=DamHyun's%20GitHub&fontSize=40&fontColor=FFFFFF" />
 </div>
 
 <!--내용 부분-->
