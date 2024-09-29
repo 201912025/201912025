@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
-<div align="center" style="background-color: #E6E6FA; padding: 20px;">
-  <h1 style="color: black;">DamHyun's GitHub</h1>
+<div align="center">
+  <img src="https://github.com/201912025/201912025/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
