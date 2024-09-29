@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<div align="center">
+<div align="center" style="background-color: black; padding: 20px;">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 
@@ -23,4 +23,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/intellij%20idea-2C2C32.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📊 Most Used Languages 📊</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oka1313&layout=compact" />
 </div>
