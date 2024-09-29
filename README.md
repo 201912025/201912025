@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center" style="background-color: #E6E6FA; padding: 20px;">
-  <h1 style="color: black; background-color: #E6E6FA; padding: 20px;">DamHyun's GitHub</h1>
+  <h1 style="color: black;">DamHyun's GitHub</h1>
 </div>
 
 <!--내용 부분-->
