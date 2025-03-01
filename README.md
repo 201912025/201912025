@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />
   </div>
 
   <br>
@@ -34,6 +33,14 @@
     <img src="https://img.shields.io/badge/Helm-0A5BFF.svg?style=for-the-badge&logo=helm&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
   </div>
+
+ <br>
+
+<h4 align="center">🔒 Security</h4>
+<div align="center">
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jwt&logoColor=white" />
+</div>
 
  <br>
 
