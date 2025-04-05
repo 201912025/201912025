@@ -39,7 +39,7 @@
   <br>
   
   <!-- DevOps -->
-  <h4 align="center">🚀 DevOps & Infra</h4>
+  <h4 align="center">🚀 DevOps </h4>
   <div align="center">
     <!-- AWS -->
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
