@@ -38,7 +38,7 @@
   
   <br>
   
-  <!-- DevOps & Infra -->
+  <!-- DevOps -->
   <h4 align="center">🚀 DevOps & Infra</h4>
   <div align="center">
     <!-- AWS -->
