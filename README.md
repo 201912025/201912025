@@ -62,9 +62,6 @@
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
     <!-- JWT -->
     <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jwt&logoColor=white" />&nbsp;
-    <!-- OAuth2 (Wikipedia 로고 활용) -->
-    <img src="https://img.shields.io/badge/OAuth2-4B0082.svg?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/1/12/OAuth_logo.svg&logoColor=white" />
-  </div>
   
   <br>
   
