@@ -68,7 +68,7 @@
   <!-- Architecture -->
   <h4 align="center">🧩 Architecture</h4>
   <div align="center">
-    <!-- MSA (아이콘8의 마이크로서비스 아이콘) -->
+    <!-- MSA -->
     <img src="https://img.shields.io/badge/MSA-6A0DAD.svg?style=for-the-badge&logo=https://img.icons8.com/external-flat-02/64/000000/microservices.png&logoColor=white" />
   </div>
   
