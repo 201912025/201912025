@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=290&section=header&text=DamHyun's%20GitHub&fontSize=40&fontColor=FFFFFF" />
 </div>
 
-<!-- 내용 부분 -->
+<!-- 내용 부분-->
 <div style="padding: 20px; background-color: #E6E6FA;">
   <!-- 전체 제목 -->
   <h3 align="center">✨ Tech Stack ✨</h3>
