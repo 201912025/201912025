@@ -34,6 +34,8 @@
     <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
     <!-- Querydsl (SVG) -->
     <img src="https://img.shields.io/badge/Querydsl-FF3A00.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/querydsl/querydsl/master/querydsl-logo.svg&logoColor=white" />
+  <!-- Elasticsearch -->
+    <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   </div>
   
   <br>
