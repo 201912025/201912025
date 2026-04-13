@@ -2,57 +2,68 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=290&section=header&text=DamHyun's%20GitHub&fontSize=40&fontColor=FFFFFF" />
 </div>
 
-<div style="padding: 20px; background-color: #E6E6FA;">
-  <h3 align="center">✨ Tech Stack ✨</h3>
-  
-  <h4 align="center">🖥 Language & Framework</h4>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Spring%20WebFlux-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  </div>
-  
+<br>
+
+<div align="center">
+  <h3>✨ Tech Stack ✨</h3>
   <br>
-  
-  <h4 align="center">🗄 Database & Messaging</h4>
-  <div align="center">
+
+  <h4>🖥 Language & Framework</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Spring%20WebFlux-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  </div>
+
+  <br>
+
+  <h4>🗄 Database & Cache</h4>
+  <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/e/e9/Java_Persistence_API_logo.svg&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Querydsl-0078D4.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  </div>
+
+  <br>
+
+  <h4>📨 Search & Messaging</h4>
+  <div>
     <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />
   </div>
-  
+
   <br>
-  
-  <h4 align="center">🧩 Architecture</h4>
-  <div align="center">
-    <img src="https://img.shields.io/badge/MSA-6A0DAD.svg?style=for-the-badge&logo=https://img.icons8.com/external-flat-02/64/000000/microservices.png&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Event--Driven-FF8C00.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  </div>
-  
-  <br>
-  
-  <h4 align="center">🚀 DevOps & CI/CD</h4>
-  <div align="center">
-    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+
+  <h4>🚀 Infra & CI/CD</h4>
+  <div>
+    <img src="https://img.shields.io/badge/AWS_(EKS_·_EC2_·_RDS_·_ALB)-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Helm-0A5BFF.svg?style=for-the-badge&logo=helm&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   </div>
-  
+
   <br>
-  
-  <h4 align="center">🔒 Security & Test</h4>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jwt&logoColor=white" />&nbsp;
+
+  <h4>📊 Observability & Testing</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/ELK%20Stack-005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Zipkin-ED1941.svg?style=for-the-badge" />&nbsp;
     <img src="https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Mockito-7AD6FF.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/mockito/mockito/main/src/main/resources/mockito-logo.png&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mockito-7AD6FF.svg?style=for-the-badge" />&nbsp;
+    <img src="https://img.shields.io/badge/k6-7D64FF.svg?style=for-the-badge&logo=k6&logoColor=white" />
   </div>
-  
+
   <br>
-  
+
+  <h4>🧩 Architecture & Security</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Spring%20Security%20(JWT)-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Resilience4j-E43625.svg?style=for-the-badge" />&nbsp;
+    <img src="https://img.shields.io/badge/OpenFeign-000000.svg?style=for-the-badge" />
+  </div>
+</div>
